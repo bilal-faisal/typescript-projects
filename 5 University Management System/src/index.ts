@@ -1,5 +1,3 @@
-console.clear();
-
 import Student from "./Student.js";
 import Instructor from "./Instructor.js";
 import Course from "./Course.js";
